@@ -47,12 +47,6 @@ namespace Frontend
             //int res = num1 + num2;
             //lblRes.Text = res.ToString();
 
-        //cfgnxcfgnxcvn
-        //    xcvnxc
-        //    vnxcvn
-        //    xcvnxcvn
-
-
             //calculadora.Num1 = int.Parse(txtOper1.Text);
             //calculadora.Num2 = Convert.ToInt32(txtOper2.Text);0
             //int res = calculadora.Operar();

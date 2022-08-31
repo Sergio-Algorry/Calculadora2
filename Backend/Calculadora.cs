@@ -12,6 +12,14 @@ namespace Backend
         public int Num2 { get; set; }
         public int Res { get; set; }
 
+
+        /// <summary>
+        /// Realiza la operacion y devuelve el resultado de la misma
+        /// </summary>
+        /// <param name="operacion"> +  o - o * o /</param>
+        /// <param name="num1">Operando 1 </param>
+        /// <param name="num2">Operando 2</param>
+        /// <returns></returns>
         public string Operar(string operacion,
                           string num1,
                           string num2)
